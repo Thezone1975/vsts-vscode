@@ -510,7 +510,7 @@
     "event-stream": "^3.3.2",
     "fs": "0.0.2",
     "git-repo-info": "^1.1.2",
-    "open": "0.0.5",
+    "open": "7.1.0",
     "opener": "^1.4.1",
     "parse-git-config": "^0.3.1",
     "path": "^0.12.7",
